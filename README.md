@@ -30,3 +30,7 @@
  !!! 설치된 python3의 실행 명령이 python인지 python3인지 구분확인!!!
  모듈 설치 시 pip 써야되는지 pip3 써야되는지 구분
 ```
+
+## Tools
+- vscode
+- python3 : 3.8
